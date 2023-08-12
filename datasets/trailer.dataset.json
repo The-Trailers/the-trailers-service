@@ -1,0 +1,969 @@
+[
+    {
+        "_id": "88",
+        "title": "88",
+        "authors": [
+            "Thomas Ikimi"
+        ],
+        "description": "Femi Jackson is the financial director for a super PAC that backs a front-runner presidential candidate. After discovering unusual patterns in donations, he enlists the help of an investment blogger to dig a little deeper. Together, they follow the campaign money trail back to its nefarious origins in a race against time to uncover the truth before the primaries.",
+        "casts": [
+            "brandon-victor-dixon",
+            "naturi-naughton",
+            "william-fichtner"
+        ],
+        "genres": [
+            "DRAMA",
+            "MYSTERY",
+            "THRILLER"
+        ],
+        "trailerURL": "https://storage.googleapis.com/trailer-videos-bucket/88-trailer-1_h720p.mov",
+        "thumbnailURL": "https://storage.googleapis.com/trailer-thumbnails-bucket/88.png",
+        "posterURL": "https://storage.googleapis.com/trailer-posters-bucket/88.jpg",
+        "releaseDatetime": "2022-06-11",
+        "budget": 0,
+        "duration": 122,
+        "pgRating": "G",
+        "hypes": [
+            {
+                "hype": "IMDB",
+                "score": 5.3
+            },
+            {
+                "hype": "RT",
+                "score": 48
+            }
+        ],
+        "movieSource": {
+            "source": "APPLETV",
+            "sourceURL": "https://tv.apple.com/us/movie/88/umc.cmc.4uqfrlz3jgoj5uz4x3jwbvi98"
+        }
+    },
+    {
+        "_id": "batman-v-superman-dawn-of-justice",
+        "title": "Batman v Superman: Dawn of Justice",
+        "authors": [
+            "Zack Snyder"
+        ],
+        "description": "Bruce Wayne, a billionaire, believes that Superman is a threat to humanity after his battle in Metropolis. Thus, he decides to adopt his mantle of Batman and defeat him once and for all.",
+        "casts": [
+            "ben-affleck",
+            "henry-cavill",
+            "amy-adams"
+        ],
+        "genres": [
+            "ACTION",
+            "ADVENTURE",
+            "SCI-FI"
+        ],
+        "trailerURL": "https://storage.googleapis.com/trailer-videos-bucket/batmanvssuperman-us-tlr4_h720p.mov",
+        "thumbnailURL": "https://storage.googleapis.com/trailer-thumbnails-bucket/batmanvsuperman.png",
+        "posterURL": "https://storage.googleapis.com/trailer-posters-bucket/batman%20v%20superman.jpg",
+        "releaseDatetime": "2016-03-25",
+        "budget": 873600000,
+        "duration": 151,
+        "pgRating": "PG-13",
+        "hypes": [
+            {
+                "hype": "IMDB",
+                "score": 6.4
+            },
+            {
+                "hype": "RT",
+                "score": 29
+            }
+        ],
+        "movieSource": {
+            "source": "APPLETV",
+            "sourceURL": "https://tv.apple.com/my/movie/batman-v-superman-dawn-of-justice-ultimate-edition/umc.cmc.26hapf18b8euiz93hf5u3q97l?action=play"
+        }
+    },
+    {
+        "_id": "avengers-age-of-ultron",
+        "title": "Avengers: Age of Ultron",
+        "authors": [
+            "Joss Whedon"
+        ],
+        "description": "Tony Stark builds an artificial intelligence system named Ultron with the help of Bruce Banner. When the sentient Ultron makes plans to wipe out the human race, the Avengers set out to stop him.",
+        "casts": [
+            "robert-downey-jr",
+            "chris-evans",
+            "mark-ruffalo"
+        ],
+        "genres": [
+            "ACTION",
+            "ADVENTURE",
+            "SCI-FI"
+        ],
+        "trailerURL": "https://storage.googleapis.com/trailer-videos-bucket/Avengers_2_trailer_3_51-720p-HDTN.mp4",
+        "thumbnailURL": "https://storage.googleapis.com/trailer-thumbnails-bucket/avengers2.png",
+        "posterURL": "https://storage.googleapis.com/trailer-posters-bucket/marvels%20avengers%20age%20of%20ultron.jpg",
+        "releaseDatetime": "2015-04-30",
+        "budget": 365000000,
+        "duration": 141,
+        "pgRating": "PG-13",
+        "hypes": [
+            {
+                "hype": "IMDB",
+                "score": 7.3
+            },
+            {
+                "hype": "RT",
+                "score": 76
+            }
+        ],
+        "movieSource": {
+            "source": "DISNEYPLUS",
+            "sourceURL": "https://www.disneyplus.com/movies/marvel-studios-avengers-age-of-ultron/76IUxY0rNHzt"
+        }
+    },
+    {
+        "_id": "brother",
+        "title": "Brother",
+        "authors": [
+            "Clement Virgo"
+        ],
+        "description": "Sons of Caribbean immigrants, Francis and Michael face questions of masculinity, identity and family amid the pulsing beat of Toronto's early hip-hop scene.",
+        "casts": [
+            "lamar-johnson",
+            "aaron-pierre",
+            "marsha-stephanie-blake"
+        ],
+        "genres": [
+            "DRAMA"
+        ],
+        "trailerURL": "https://storage.googleapis.com/trailer-videos-bucket/brother-trailer-1_h720p.mov",
+        "thumbnailURL": "https://storage.googleapis.com/trailer-thumbnails-bucket/brother.png",
+        "posterURL": "https://storage.googleapis.com/trailer-posters-bucket/brother.jpg",
+        "releaseDatetime": "2022-09-09",
+        "budget": 0,
+        "duration": 120,
+        "pgRating": "PG-13",
+        "hypes": [
+            {
+                "hype": "IMDB",
+                "score": 7.3
+            },
+            {
+                "hype": "RT",
+                "score": 89
+            }
+        ],
+        "movieSource": {
+            "source": "APPLETV",
+            "sourceURL": "https://tv.apple.com/ca/movie/brother/umc.cmc.6mu7cugviuqeupb64v253r6kc?at=1000l3V2&ct=justwatch_tv&playableId=tvs.sbd.9001%3A1676463667"
+        }
+    },
+    {
+        "_id": "corner-office",
+        "title": "Corner Office",
+        "authors": [
+            "Joachim Back"
+        ],
+        "description": "In this workplace comedy reminiscent of \"Office Space\" and \"Severance,\" misfit Orson finds himself trapped in the absurdities of corporate life. As The Authority's newest employee, Orson finds it difficult to connect with his enigmatic desk mate, Rakesh, as well as with the rest of his colleagues. His alienation deepens when he discovers a room he's told doesn't exist - a place that unleashes his true potential, leading to an ascent up the corporate ladder.",
+        "casts": [
+            "jon-hamm"
+        ],
+        "genres": [
+            "COMEDY"
+        ],
+        "trailerURL": "https://storage.googleapis.com/trailer-videos-bucket/corner-office-trailer-1_h720p.mov",
+        "thumbnailURL": "https://storage.googleapis.com/trailer-thumbnails-bucket/corneroffice.png",
+        "posterURL": "https://storage.googleapis.com/trailer-posters-bucket/corner%20office.jpg",
+        "releaseDatetime": "2023-08-04",
+        "budget": 0,
+        "duration": 161,
+        "pgRating": "PG-13",
+        "hypes": [
+            {
+                "hype": "IMDB",
+                "score": 6
+            },
+            {
+                "hype": "RT",
+                "score": 31
+            }
+        ],
+        "movieSource": {
+            "source": "APPLETV",
+            "sourceURL": "https://tv.apple.com/us/movie/corner-office/umc.cmc.1hhlzryjhn6j41rpjkylx76e7?at=1000l3V2&ct=justwatch_tv&playableId=tvs.sbd.9001%3A1697437765"
+        }
+    },
+    {
+        "_id": "crazy-rich-asians",
+        "title": "Crazy Rich Asians",
+        "authors": [
+            "Jon M. Chu"
+        ],
+        "description": "Rachel, a professor, dates a man named Nick and looks forward to meeting his family. However, she is shaken up when she learns that Nick belongs to one of the richest families in the country.",
+        "casts": [
+            "constance-wu",
+            "henry-golding",
+            "michelle-yeoh"
+        ],
+        "genres": [
+            "COMEDY"
+        ],
+        "trailerURL": "https://storage.googleapis.com/trailer-videos-bucket/corner-office-trailer-1_h720p.mov",
+        "thumbnailURL": "https://storage.googleapis.com/trailer-thumbnails-bucket/corneroffice.png",
+        "posterURL": "https://storage.googleapis.com/trailer-posters-bucket/corner%20office.jpg",
+        "releaseDatetime": "2018-08-22",
+        "budget": 30000000,
+        "duration": 120,
+        "pgRating": "PG-13",
+        "hypes": [
+            {
+                "hype": "IMDB",
+                "score": 6.9
+            },
+            {
+                "hype": "RT",
+                "score": 91
+            }
+        ],
+        "movieSource": {
+            "source": "APPLETV",
+            "sourceURL": "https://tv.apple.com/my/movie/crazy-rich-asians/umc.cmc.6gjq3xvonledd0135dx4fqxqi?action=play"
+        }
+    },
+    {
+        "_id": "creed-iii",
+        "title": "Creed III",
+        "authors": [
+            "Michael B. Jordan",
+            "Sylvester Stallone",
+            "Ryan Coogler"
+        ],
+        "description": "Still dominating the boxing world, Adonis Creed is thriving in his career and family life. When Damian, a childhood friend and former boxing prodigy resurfaces after serving time in prison, he's eager to prove that he deserves his shot in the ring. The face-off between former friends is more than just a fight. To settle the score, Adonis must put his future on the line to battle Damian -- a fighter who has nothing to lose.",
+        "casts": [
+            "michael-b-jordan",
+            "tessa-thompson",
+            "jonathan-majors"
+        ],
+        "genres": [
+            "DRAMA",
+            "SPORTS"
+        ],
+        "trailerURL": "https://storage.googleapis.com/trailer-videos-bucket/creed-iii-trailer-2_h720p.mov",
+        "thumbnailURL": "https://storage.googleapis.com/trailer-thumbnails-bucket/creediii.png",
+        "posterURL": "https://storage.googleapis.com/trailer-posters-bucket/creed%203.jpg",
+        "releaseDatetime": "2023-03-03",
+        "budget": 75000000,
+        "duration": 116,
+        "pgRating": "PG-13",
+        "hypes": [
+            {
+                "hype": "IMDB",
+                "score": 6.8
+            },
+            {
+                "hype": "RT",
+                "score": 88
+            }
+        ],
+        "movieSource": {
+            "source": "AMAZONPRIME",
+            "sourceURL": "https://www.primevideo.com/dp/amzn1.dv.gti.b2ac0356-dbd2-4d0b-9840-4d627e72d8bc?autoplay=0&ref_=atv_cf_strg_wb"
+        }
+    },
+    {
+        "_id": "elemental",
+        "title": "Elemental",
+        "authors": [
+            "Peter Sohn",
+            "John Hoberg",
+            "Kat Likkel",
+            "Brenda Hsueh"
+        ],
+        "description": "In a city where fire, water, land, and air residents live together, a fiery young woman and a go-with-the-flow guy discover something elemental: how much they actually have in common.",
+        "casts": [
+            "leah-lewis",
+            "mamoudou-athie"
+        ],
+        "genres": [
+            "ANIMATION",
+            "COMEDY"
+        ],
+        "trailerURL": "https://storage.googleapis.com/trailer-videos-bucket/elemental-trailer-2b_h720p.mov",
+        "thumbnailURL": "https://storage.googleapis.com/trailer-thumbnails-bucket/elemental.png",
+        "posterURL": "https://storage.googleapis.com/trailer-posters-bucket/elementals.jpg",
+        "releaseDatetime": "2023-06-16",
+        "budget": 200000000,
+        "duration": 109,
+        "pgRating": "PG",
+        "hypes": [
+            {
+                "hype": "IMDB",
+                "score": 7.1
+            },
+            {
+                "hype": "RT",
+                "score": 74
+            }
+        ],
+        "movieSource": {
+            "source": "DISNEYPLUS",
+            "sourceURL": "https://www.disneyplus.com/movies/elemental/1B2ZQ9GF35W5"
+        }
+    },
+    {
+        "_id": "inspector-sun-and-the-curse-of-the-black-widow",
+        "title": "Inspector Sun and the Curse of the Black Widow",
+        "authors": [
+            "Julio Soto Gurpide",
+            "Rocco Pucillo"
+        ],
+        "description": "A spider detective boards a seaplane to San Francisco after finally capturing his nemesis. However, a murder on the flight draws him into a plot that threatens both the human and bug world.",
+        "casts": [
+            "jesus-barreda",
+            "andrea-villaverde"
+        ],
+        "genres": [
+            "FAMILY",
+            "ANIMATION"
+        ],
+        "trailerURL": "https://storage.googleapis.com/trailer-videos-bucket/inspector-sun-and-the-curse-of-the-black-widow-trailer-1_h720p.mov",
+        "thumbnailURL": "https://storage.googleapis.com/trailer-thumbnails-bucket/inspectorsun.png",
+        "posterURL": "https://storage.googleapis.com/trailer-posters-bucket/inspector%20sun%20and%20the%20curse%20of%20the%20black%20widow.jpg",
+        "releaseDatetime": "2022-12-28",
+        "budget": 0,
+        "duration": 88,
+        "pgRating": "PG",
+        "hypes": [
+            {
+                "hype": "IMDB",
+                "score": 5.2
+            }
+        ],
+        "movieSource": {
+            "source": "THEATRE",
+            "sourceURL": "https://www.cinema.com.my/cinemas/cinemas.aspx"
+        }
+    },
+    {
+        "_id": "meg-2-the-trench",
+        "title": "Meg 2: The Trench",
+        "authors": [
+            "Ben Wheatley",
+            "Jon HoeberErich",
+            "HoeberDean Georgaris"
+        ],
+        "description": "A research team encounters multiple threats while exploring the depths of the ocean, including a malevolent mining operation.",
+        "casts": [
+            "jason-statham"
+        ],
+        "genres": [
+            "ACTION",
+            "ADVENTURE",
+            "HORROR"
+        ],
+        "trailerURL": "https://storage.googleapis.com/trailer-videos-bucket/meg-2-the-trench-trailer-1_h720p.mov",
+        "thumbnailURL": "https://storage.googleapis.com/trailer-thumbnails-bucket/meg2.png",
+        "posterURL": "https://storage.googleapis.com/trailer-posters-bucket/meg2%20the%20trench.jpg",
+        "releaseDatetime": "2023-08-04",
+        "budget": 139000000,
+        "duration": 88,
+        "pgRating": "PG-13",
+        "hypes": [
+            {
+                "hype": "IMDB",
+                "score": 5.5
+            },
+            {
+                "hype": "RT",
+                "score": 27
+            }
+        ],
+        "movieSource": {
+            "source": "THEATRE",
+            "sourceURL": "https://www.cinema.com.my/cinemas/cinemas.aspx"
+        }
+    },
+    {
+        "_id": "operation-fortune-ruse-de-guerre",
+        "title": "Operation Fortune: Ruse de Guerre",
+        "authors": [
+            "Jason Statham",
+            "Guy Ritchie",
+            "Ivan Atkinson",
+            "Steve Chasman",
+            "Bill Block"
+        ],
+        "description": "Elite spy Orson Fortune must track down and stop the sale of a deadly new weapons technology wielded by billionaire arms broker Greg Simmonds. Reluctantly teamed up with some of the world's best operatives, Fortune and his crew recruit Hollywood's biggest movie star, Danny Francesco, to help them on their globe-trotting mission to save the world.",
+        "casts": [
+            "jason-statham"
+        ],
+        "genres": [
+            "ACTION",
+            "COMEDY",
+            "THRILLER"
+        ],
+        "trailerURL": "https://storage.googleapis.com/trailer-videos-bucket/operation-fortune-trailer-1_h720p.mov",
+        "thumbnailURL": "https://storage.googleapis.com/trailer-thumbnails-bucket/operationfortune.png",
+        "posterURL": "https://storage.googleapis.com/trailer-posters-bucket/operation%20fortune%20ruse%20de%20guerre.jpg",
+        "releaseDatetime": "2023-01-13",
+        "budget": 50000000,
+        "duration": 114,
+        "pgRating": "R",
+        "hypes": [
+            {
+                "hype": "IMDB",
+                "score": 6.3
+            },
+            {
+                "hype": "RT",
+                "score": 51
+            }
+        ],
+        "movieSource": {
+            "source": "APPLETV",
+            "sourceURL": "https://tv.apple.com/us/movie/operation-fortune-ruse-de-guerre/umc.cmc.76hx6edpikkn86od045455vgx?playableId=tvs.sbd.9001%3A1674303888"
+        }
+    },
+    {
+        "_id": "oppenheimer",
+        "title": "Oppenheimer",
+        "authors": [
+            "Christopher Nolan"
+        ],
+        "description": "During World War II, Lt. Gen. Leslie Groves Jr. appoints physicist J. Robert Oppenheimer to work on the top-secret Manhattan Project. Oppenheimer and a team of scientists spend years developing and designing the atomic bomb. Their work comes to fruition on July 16, 1945, as they witness the world's first nuclear explosion, forever changing the course of history.",
+        "casts": [],
+        "genres": [
+            "BIOGRAPHY",
+            "DRAMA",
+            "HISTORY"
+        ],
+        "trailerURL": "https://storage.googleapis.com/trailer-videos-bucket/oppenheimer-trailer-2_h720p.mov",
+        "thumbnailURL": "https://storage.googleapis.com/trailer-thumbnails-bucket/oppenheimer.png",
+        "posterURL": "https://storage.googleapis.com/trailer-posters-bucket/oppenheimer.jpg",
+        "releaseDatetime": "2023-07-31",
+        "budget": 100000000,
+        "duration": 180,
+        "pgRating": "R",
+        "hypes": [
+            {
+                "hype": "IMDB",
+                "score": 8.6
+            },
+            {
+                "hype": "RT",
+                "score": 93
+            }
+        ],
+        "movieSource": {
+            "source": "THEATRE",
+            "sourceURL": "https://www.cinema.com.my/movies/details.aspx?search=2023.16719.oppenheimer.33143"
+        }
+    },
+    {
+        "_id": "ruby-gillman-teenage-kraken",
+        "title": "Ruby Gillman, Teenage Kraken",
+        "authors": [
+            "Kirk DeMicco"
+        ],
+        "description": "Ruby Gillman is a sweet and awkward high school student who discovers she's a direct descendant of the warrior kraken queens. The kraken are sworn to protect the oceans of the world against the vain, power-hungry mermaids. Destined to inherit the throne from her commanding grandmother, Ruby must use her newfound powers to protect those she loves most.",
+        "casts": [
+            "lana-condor",
+            "toni-collette",
+            "jane-fonda"
+        ],
+        "genres": [
+            "ANIMATION",
+            "ACTION",
+            "ADVENTURE",
+            "COMEDY"
+        ],
+        "trailerURL": "https://storage.googleapis.com/trailer-videos-bucket/ruby-gillman-teenage-kraken-trailer-2_h720p.mov",
+        "thumbnailURL": "https://storage.googleapis.com/trailer-thumbnails-bucket/rubygillman.png",
+        "posterURL": "https://storage.googleapis.com/trailer-posters-bucket/ruby%20gillman%20teenage%20kraken.jpg",
+        "releaseDatetime": "2023-06-30",
+        "budget": 40800000,
+        "duration": 180,
+        "pgRating": "PG",
+        "hypes": [
+            {
+                "hype": "IMDB",
+                "score": 5.7
+            },
+            {
+                "hype": "RT",
+                "score": 66
+            }
+        ],
+        "movieSource": {
+            "source": "AMAZON",
+            "sourceURL": "https://www.amazon.com/gp/video/detail/0QVYFH8JFBF8QMDYEAHG1Y6F7K/ref=atv_dl_rdr?tag=justus1ktp-20"
+        }
+    },
+    {
+        "_id": "spider-man-across-the-spider-verse",
+        "title": "Spider-Man: Across the Spider-Verse",
+        "authors": [
+            "Joaquim Dos Santos",
+            "Justin K. Thompson",
+            "Kemp Powers"
+        ],
+        "description": "Miles Morales embarks on a thrilling adventure through the multiverse and joins forces with Gwen Stacy and Spider-People to fight a supervillain.",
+        "casts": [
+            "shameik-moore",
+            "hailee-steinfeld"
+        ],
+        "genres": [
+            "ACTION",
+            "ADVENTURE",
+            "ANIMATION"
+        ],
+        "trailerURL": "https://storage.googleapis.com/trailer-videos-bucket/spider-man-across-the-spider-verse-trailer-2_h720p.mov",
+        "thumbnailURL": "https://storage.googleapis.com/trailer-thumbnails-bucket/spiderman-acrossthespiderverse.png",
+        "posterURL": "https://storage.googleapis.com/trailer-posters-bucket/spider-man%20across%20the%20spider-verse.jpg",
+        "releaseDatetime": "2023-06-02",
+        "budget": 100000000,
+        "duration": 140,
+        "pgRating": "PG-13",
+        "hypes": [
+            {
+                "hype": "IMDB",
+                "score": 8.9
+            },
+            {
+                "hype": "RT",
+                "score": 95
+            }
+        ],
+        "movieSource": {
+            "source": "APPLETV",
+            "sourceURL": "https://tv.apple.com/my/movie/spider-man-across-the-spider-verse/umc.cmc.2zphwshxw2ejh2znevhod0u01?action=play"
+        }
+    },
+    {
+        "_id": "star-wars-the-force-awakens",
+        "title": "Star Wars: The Force Awakens",
+        "authors": [
+            "Lawrence Kasdan",
+            "J.J. Abrams",
+            "Michael Arndt"
+        ],
+        "description": "A new order threatens to destroy the New Republic. Finn, Rey and Poe, backed by the Resistance and the Republic, must find a way to stop them and find Luke, the last surviving Jedi.",
+        "casts": [
+            "daisy-ridley",
+            "harrison-ford",
+            "john-boyega"
+        ],
+        "genres": [
+            "ACTION",
+            "ADVENTURE",
+            "SCI-FI"
+        ],
+        "trailerURL": "https://storage.googleapis.com/trailer-videos-bucket/starwars-tvspot_h720p.mov",
+        "thumbnailURL": "https://storage.googleapis.com/trailer-thumbnails-bucket/starwars-theforceawakens.png",
+        "posterURL": "https://storage.googleapis.com/trailer-posters-bucket/star%20wars%20the%20force%20awakens.jpg",
+        "releaseDatetime": "2015-12-17",
+        "budget": 447000000,
+        "duration": 136,
+        "pgRating": "PG-13",
+        "hypes": [
+            {
+                "hype": "IMDB",
+                "score": 7.8
+            },
+            {
+                "hype": "RT",
+                "score": 93
+            }
+        ],
+        "movieSource": {
+            "source": "DISNEYPLUS",
+            "sourceURL": "https://www.disneyplus.com/movies/star-wars-the-force-awakens-episode-vii/1LEKJPDPeMr7"
+        }
+    },
+    {
+        "_id": "the-super-mario-bros-movie",
+        "title": "The Super Mario Bros. Movie",
+        "authors": [
+            "Aaron Horvath",
+            "Michael Jelenic"
+        ],
+        "description": "With help from Princess Peach, Mario gets ready to square off against the all-powerful Bowser to stop his plans from conquering the world.",
+        "casts": [
+            "chris-pratt",
+            "anya-taylor-joy",
+            "charlie-day",
+            "jack-black"
+        ],
+        "genres": [
+            "ANIMATION",
+            "ADVENTURE",
+            "COMEDY"
+        ],
+        "trailerURL": "https://storage.googleapis.com/trailer-videos-bucket/super-mario-bros-movie-trailer-3_h720p.mov",
+        "thumbnailURL": "https://storage.googleapis.com/trailer-thumbnails-bucket/super-mario.png",
+        "posterURL": "https://storage.googleapis.com/trailer-posters-bucket/mario.jpg",
+        "releaseDatetime": "2023-04-20",
+        "budget": 100000000,
+        "duration": 92,
+        "pgRating": "PG",
+        "hypes": [
+            {
+                "hype": "IMDB",
+                "score": 7.1
+            },
+            {
+                "hype": "RT",
+                "score": 58
+            }
+        ],
+        "movieSource": {
+            "source": "APPLETV",
+            "sourceURL": "https://tv.apple.com/my/movie/the-super-mario-bros-movie/umc.cmc.lnitkepcr7q85n755kia38uc?action=play"
+        }
+    },
+    {
+        "_id": "tetris",
+        "title": "Tetris",
+        "authors": [
+            "Jon S. Baird",
+            "Noah Pink"
+        ],
+        "description": "Henk Rogers discovers Tetris in 1988, and then risks everything by travelling to the Soviet Union, where he joins forces with inventor Alexey Pajitnov to bring the game to the masses.",
+        "casts": [
+            "taron-egerton",
+            "nikita-efremov",
+            "mara-huf"
+        ],
+        "genres": [
+            "BIOGRAPHY",
+            "DRAMA",
+            "HISTORY"
+        ],
+        "trailerURL": "https://storage.googleapis.com/trailer-videos-bucket/tetris-trailer-1_h720p.mov",
+        "thumbnailURL": "https://storage.googleapis.com/trailer-thumbnails-bucket/tetris.png",
+        "posterURL": "https://storage.googleapis.com/trailer-posters-bucket/tetris.jpg",
+        "releaseDatetime": "2023-03-15",
+        "budget": 80000000,
+        "duration": 118,
+        "pgRating": "R",
+        "hypes": [
+            {
+                "hype": "IMDB",
+                "score": 7.4
+            },
+            {
+                "hype": "RT",
+                "score": 82
+            }
+        ],
+        "movieSource": {
+            "source": "APPLETV",
+            "sourceURL": "https://tv.apple.com/my/movie/tetris/umc.cmc.4evmgcam356pzgxs2l7a18d7b?action=play"
+        }
+    },
+    {
+        "_id": "the-flash",
+        "title": "The Flash",
+        "authors": [
+            "Andy Muschietti",
+            "Christina Hodson",
+            "John Francis Daley",
+            "Jonathan Goldstein"
+        ],
+        "description": "Worlds collide when the Flash uses his superpowers to travel back in time to change the events of the past. However, when his attempt to save his family inadvertently alters the future, he becomes trapped in a reality in which General Zod has returned, threatening annihilation. With no other superheroes to turn to, the Flash looks to coax a very different Batman out of retirement and rescue an imprisoned Kryptonian -- albeit not the one he's looking for.",
+        "casts": [
+            "ezra-miller",
+            "michael-keaton"
+        ],
+        "genres": [
+            "ACTION",
+            "ADVENTURE",
+            "FANTASY"
+        ],
+        "trailerURL": "https://storage.googleapis.com/trailer-videos-bucket/the-flash-trailer-3_h720p.mov",
+        "thumbnailURL": "https://storage.googleapis.com/trailer-thumbnails-bucket/the-flash.png",
+        "posterURL": "https://storage.googleapis.com/trailer-posters-bucket/the%20flash.jpg",
+        "releaseDatetime": "2023-06-15",
+        "budget": 268500000,
+        "duration": 144,
+        "pgRating": "PG-13",
+        "hypes": [
+            {
+                "hype": "IMDB",
+                "score": 6.9
+            },
+            {
+                "hype": "RT",
+                "score": 64
+            }
+        ],
+        "movieSource": {
+            "source": "APPLETV",
+            "sourceURL": "https://tv.apple.com/id/movie/the-flash/umc.cmc.12wveee6rvgkmj55guz3wt6i0?playableId=tvs.sbd.9001%3A1686474491"
+        }
+    },
+    {
+        "_id": "the-little-mermaid",
+        "title": "The Little Mermaid",
+        "authors": [
+            "Rob Marshall",
+            "David Magee",
+            "Hans Christian Andersen",
+            "John Musker"
+        ],
+        "description": "The youngest of King Triton's daughters, Ariel is a beautiful and spirited young mermaid with a thirst for adventure. Longing to find out more about the world beyond the sea, Ariel visits the surface and falls for the dashing Prince Eric. Following her heart, she makes a deal with the evil sea witch, Ursula, to experience life on land.",
+        "casts": [
+            "halle-bailey",
+            "jonah-hauer-king",
+            "melissa-mccarthy"
+        ],
+        "genres": [
+            "ADVENTURE",
+            "FAMILY",
+            "FANTASY"
+        ],
+        "trailerURL": "https://storage.googleapis.com/trailer-videos-bucket/the-little-mermaid-trailer-2_h720p.mov",
+        "thumbnailURL": "https://storage.googleapis.com/trailer-thumbnails-bucket/the-little-mermaid.png",
+        "posterURL": "https://storage.googleapis.com/trailer-posters-bucket/the%20little%20mermaid.jpg",
+        "releaseDatetime": "2023-05-25",
+        "budget": 250000000,
+        "duration": 135,
+        "pgRating": "PG",
+        "hypes": [
+            {
+                "hype": "IMDB",
+                "score": 7.2
+            },
+            {
+                "hype": "RT",
+                "score": 67
+            }
+        ],
+        "movieSource": {
+            "source": "DISNEYPLUS",
+            "sourceURL": "https://www.disneyplus.com/movies/the-little-mermaid/5V7zkeKCcrWo"
+        }
+    },
+    {
+        "_id": "hotel-transylvania",
+        "title": "Hotel Transylvania",
+        "authors": [
+            "Genndy Tartakovsky"
+        ],
+        "description": "Welcome to the Hotel Transylvania, Dracula's (Adam Sandler) lavish five-stake resort, where monsters and their families can live it up, free to be the monsters they are without humans to bother them. On one special weekend, Dracula has invited some of the world's most famous monsters--Frankenstein and his bride, the Mummy, the Invisible Man, a family of werewolves, and more--to celebrate his daughter Mavis's 118th birthday. For Drac, catering to all of these legendary monsters is no problem--but his world could come crashing down when one ordinary guy stumbles on the hotel and takes a shine to Mavis.",
+        "casts": [
+            "adam-sandler",
+            "selena-gomez",
+            "andy-samberg"
+        ],
+        "genres": [
+            "ANIMATION",
+            "ADVENTURE",
+            "COMEDY"
+        ],
+        "trailerURL": "https://storage.googleapis.com/trailer-videos-bucket/hoteltansylvania-tlr1_h720p.mov",
+        "thumbnailURL": "https://storage.googleapis.com/trailer-thumbnails-bucket/hotel-transylvania.png",
+        "posterURL": "https://storage.googleapis.com/trailer-posters-bucket/hotel-transylvania.jpg",
+        "releaseDatetime": "2012-09-27",
+        "budget": 85000000,
+        "duration": 91,
+        "pgRating": "PG",
+        "hypes": [
+            {
+                "hype": "IMDB",
+                "score": 7
+            },
+            {
+                "hype": "RT",
+                "score": 44
+            }
+        ],
+        "movieSource": {
+            "source": "NETFLIX",
+            "sourceURL": "https://www.netflix.com/jp-en/title/70220028"
+        }
+    },
+    {
+        "_id": "chappie",
+        "title": "Chappie",
+        "authors": [
+            "Neill Blomkamp"
+        ],
+        "description": "From the director of District 9 and Elysium comes Chappie, starring Sharlto Copley, and Dev Patel with Sigourney Weaver and Hugh Jackman. Every child comes into the world full of promise, and none more so than Chappie: he is gifted, special, a prodigy. Like any child, Chappie will come under the influence of his surroundings—some good, some bad—and he will rely on his heart and soul to find his way in the world and become his own man. But there's one thing that makes Chappie different from any one else: he is a robot. The first robot with the ability to think and feel for himself. That's a dangerous idea—and it's a challenge that will pit Chappie against powerful, destructive forces that would ensure that he is the last of his kind.",
+        "casts": [
+            "sharlto-copley",
+            "dev-patel",
+            "hugh-jackman"
+        ],
+        "genres": [
+            "ACTION",
+            "CRIME",
+            "DRAMA"
+        ],
+        "trailerURL": "https://storage.googleapis.com/trailer-videos-bucket/chappie-tlr1_h720p.mov",
+        "thumbnailURL": "https://storage.googleapis.com/trailer-thumbnails-bucket/chappie.png",
+        "posterURL": "https://storage.googleapis.com/trailer-posters-bucket/chappie.jpg",
+        "releaseDatetime": "2015-03-06",
+        "budget": 49000000,
+        "duration": 120,
+        "pgRating": "R",
+        "hypes": [
+            {
+                "hype": "IMDB",
+                "score": 6.8
+            },
+            {
+                "hype": "RT",
+                "score": 32
+            }
+        ],
+        "movieSource": {
+            "source": "NETFLIX",
+            "sourceURL": "https://www.netflix.com/br-en/title/80016588"
+        }
+    },
+    {
+        "_id": "transformers-rise-of-the-beasts",
+        "title": "Transformers: Rise of the Beasts",
+        "authors": [
+            "Steven Caple Jr.",
+            "Joby Harold",
+            "Darnell Metayer",
+            "Josh Peters"
+        ],
+        "description": "Optimus Prime and the Autobots take on their biggest challenge yet. When a new threat capable of destroying the entire planet emerges, they must team up with a powerful faction of Transformers known as the Maximals to save Earth.",
+        "casts": [
+            "anthony-ramos",
+            "dominique-fishback"
+        ],
+        "genres": [
+            "ACTION",
+            "ADVENTURE",
+            "SCI-FI"
+        ],
+        "trailerURL": "https://storage.googleapis.com/trailer-videos-bucket/transformers-rise-of-the-beasts-trailer-2_h720p.mov",
+        "thumbnailURL": "https://storage.googleapis.com/trailer-thumbnails-bucket/transformers-rise-of-the-beasts.png",
+        "posterURL": "https://storage.googleapis.com/trailer-posters-bucket/transformers%20rise%20of%20the%20beasts.jpg",
+        "releaseDatetime": "2023-06-09",
+        "budget": 200000000,
+        "duration": 127,
+        "pgRating": "PG-13",
+        "hypes": [
+            {
+                "hype": "IMDB",
+                "score": 6.1
+            },
+            {
+                "hype": "RT",
+                "score": 52
+            }
+        ],
+        "movieSource": {
+            "source": "APPLETV",
+            "sourceURL": "https://tv.apple.com/my/movie/transformers---o-despertar-das-feras/umc.cmc.2cv8qi6dv4nfbkjm8jsfhytcp?action=play"
+        }
+    },
+    {
+        "_id": "trolls-band-together",
+        "title": "Trolls Band Together",
+        "authors": [
+            "Walt Dohrn",
+            "Tim Heitz"
+        ],
+        "description": "Poppy discovers that Branch and his four brothers were once part of her favorite boy band. When one of his siblings, Floyd, gets kidnapped by a pair of nefarious villains, Branch and Poppy embark on a harrowing and emotional journey to reunite the other brothers and rescue Floyd from a fate even worse than pop culture obscurity",
+        "casts": [
+            "anna-kendrick",
+            "justin-timberlake"
+        ],
+        "genres": [
+            "ANIMATION",
+            "ADVENTURE",
+            "COMEDY"
+        ],
+        "trailerURL": "https://storage.googleapis.com/trailer-videos-bucket/trolls-band-together-trailer-1_h720p.mov",
+        "thumbnailURL": "https://storage.googleapis.com/trailer-thumbnails-bucket/trolls-band-together.png",
+        "posterURL": "https://storage.googleapis.com/trailer-posters-bucket/trolls%20band%20together.jpg",
+        "releaseDatetime": "2023-11-17",
+        "budget": 0,
+        "duration": 120,
+        "pgRating": "PG",
+        "hypes": [],
+        "movieSource": {
+            "source": "THEATRE",
+            "sourceURL": "https://www.cinema.com.my/cinemas/cinemas.aspx"
+        }
+    },
+    {
+        "_id": "world-war-z",
+        "title": "World War Z",
+        "authors": [
+            "Marc Forster",
+            "Matthew Michael Carnahan",
+            "J. Michael Straczynski"
+        ],
+        "description": "Gerry, a former United Nations employee, unexpectedly finds himself in a race against time as he investigates a threatening virus that turns humans into zombies.",
+        "casts": [
+            "brad-pitt"
+        ],
+        "genres": [
+            "ACTION",
+            "ADVENTURE",
+            "HORROR"
+        ],
+        "trailerURL": "https://storage.googleapis.com/trailer-videos-bucket/worldwarz-tlr2_h720p.mov",
+        "thumbnailURL": "https://storage.googleapis.com/trailer-thumbnails-bucket/world-war-z.png",
+        "posterURL": "https://storage.googleapis.com/trailer-posters-bucket/world-war-z.jpg",
+        "releaseDatetime": "2013-06-20",
+        "budget": 190000000,
+        "duration": 116,
+        "pgRating": "PG-13",
+        "hypes": [
+            {
+                "hype": "IMDB",
+                "score": 7
+            },
+            {
+                "hype": "RT",
+                "score": 66
+            }
+        ],
+        "movieSource": {
+            "source": "NETFLIX",
+            "sourceURL": "https://www.netflix.com/es-en/title/70262639"
+        }
+    },
+    {
+        "_id": "the-year-of-the-dog",
+        "title": "The Year of the Dog",
+        "authors": [
+            "Rob Grabow",
+            "Michael Peterson",
+            "Andrew McGinn"
+        ],
+        "description": "A troubled alcoholic develops a special bond with a stray dog.",
+        "casts": [
+            "rob-grabow",
+            "michael-spears",
+            "jon-proudstar"
+        ],
+        "genres": [
+            "DRAMA"
+        ],
+        "trailerURL": "https://storage.googleapis.com/trailer-videos-bucket/trolls-band-together-trailer-1_h720p.mov",
+        "thumbnailURL": "https://storage.googleapis.com/trailer-thumbnails-bucket/trolls-band-together.png",
+        "posterURL": "https://storage.googleapis.com/trailer-posters-bucket/trolls%20band%20together.jpg",
+        "releaseDatetime": "2023-02-24",
+        "budget": 0,
+        "duration": 95,
+        "pgRating": "PG-13",
+        "hypes": [
+            {
+                "hype": "IMDB",
+                "score": 5.8
+            },
+            {
+                "hype": "RT",
+                "score": 100
+            }
+        ],
+        "movieSource": {
+            "source": "APPLETV",
+            "sourceURL": "https://tv.apple.com/us/movie/the-year-of-the-dog/umc.cmc.5ra77h5gi4q13mn2v0mkvd2zj?at=1000l3V2&ct=justwatch_tv&playableId=tvs.sbd.9001%3A1663062448"
+        }
+    }
+]

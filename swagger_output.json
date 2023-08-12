@@ -1,0 +1,89 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "title": "The Trailers Service",
+    "version": "0.0.1",
+    "description": "The Trailers Service for The Trailers App."
+  },
+  "host": "localhost:3001",
+  "basePath": "/",
+  "schemes": [
+    "http"
+  ],
+  "securityDefinitions": {
+    "bearerAuth": {
+      "type": "apiKey",
+      "in": "header",
+      "name": "Authorization"
+    }
+  },
+  "paths": {
+    "/featured-section": {
+      "get": {
+        "description": "",
+        "responses": {
+          "200": {
+            "description": "OK"
+          },
+          "400": {
+            "description": "Bad Request"
+          }
+        }
+      }
+    },
+    "/sections": {
+      "get": {
+        "description": "",
+        "responses": {
+          "200": {
+            "description": "OK"
+          },
+          "400": {
+            "description": "Bad Request"
+          }
+        }
+      }
+    },
+    "/trailer/{trailerId}": {
+      "get": {
+        "description": "",
+        "parameters": [
+          {
+            "name": "trailerId",
+            "in": "path",
+            "required": true,
+            "type": "string"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          },
+          "400": {
+            "description": "Bad Request"
+          }
+        }
+      }
+    },
+    "/other-upcoming-trailers": {
+      "get": {
+        "description": "",
+        "parameters": [
+          {
+            "name": "count",
+            "in": "query",
+            "type": "string"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          },
+          "400": {
+            "description": "Bad Request"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,62 @@
+[
+    {
+        "_id": "ACTION",
+        "name": "Action"
+    },
+    {
+        "_id": "ADVENTURE",
+        "name": "Adventure"
+    },
+    {
+        "_id": "ANIMATION",
+        "name": "Animation"
+    },
+    {
+        "_id": "BIOGRAPHY",
+        "name": "Biography"
+    },
+    {
+        "_id": "COMEDY",
+        "name": "Comedy"
+    },
+    {
+        "_id": "CRIME",
+        "name": "Crime"
+    },
+    {
+        "_id": "DRAMA",
+        "name": "Drama"
+    },
+    {
+        "_id": "FAMILY",
+        "name": "Family"
+    },
+    {
+        "_id": "FANTASY",
+        "name": "Fantasy"
+    },
+    {
+        "_id": "HISTORY",
+        "name": "History"
+    },
+    {
+        "_id": "HORROR",
+        "name": "Horror"
+    },
+    {
+        "_id": "MYSTERY",
+        "name": "Mystery"
+    },
+    {
+        "_id": "SCI-FI",
+        "name": "Sci-Fi"
+    },
+    {
+        "_id": "SPORTS",
+        "name": "Sports"
+    },
+    {
+        "_id": "THRILLER",
+        "name": "Thriller"
+    }
+]

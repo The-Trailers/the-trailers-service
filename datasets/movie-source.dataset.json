@@ -1,0 +1,26 @@
+[
+    {
+        "_id": "AMAZON",
+        "name": "Amazon"
+    },
+    {
+        "_id": "AMAZONPRIME",
+        "name": "Amazon Prime"
+    },
+    {
+        "_id": "APPLETV",
+        "name": "Apple TV"
+    },
+    {
+        "_id": "DISNEYPLUS",
+        "name": "Disney+"
+    },
+    {
+        "_id": "THEATRE",
+        "name": "Theatre"
+    },
+    {
+        "_id": "NETFLIX",
+        "name": "Netflix"
+    }
+]

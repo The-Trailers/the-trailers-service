@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Featured",    
+        "trailers": [
+            "the-super-mario-bros-movie",
+            "spider-man-across-the-spider-verse",
+            "the-little-mermaid",
+            "elemental"
+        ],
+        "isFeatured": true
+    },
+    {
+        "title": "Trending Now",    
+        "trailers": [
+            "the-flash",
+            "oppenheimer",
+            "ruby-gillman-teenage-kraken",
+            "star-wars-the-force-awakens",
+            "tetris"
+        ]
+    },
+    {
+        "title": "New Releases",    
+        "trailers": [
+            "corner-office",
+            "creed-iii",
+            "world-war-z",
+            "meg-2-the-trench",
+            "operation-fortune-ruse-de-guerre"
+        ]
+    },
+    {
+        "title": "Kids & Family Movies",    
+        "trailers": [
+            "hotel-transylvania",
+            "trolls-band-together",
+            "elemental",
+            "inspector-sun-and-the-curse-of-the-black-widow",
+            "ruby-gillman-teenage-kraken"
+        ]
+    },
+    {
+        "title": "Blockbuster Movies",    
+        "trailers": [
+            "avengers-age-of-ultron",
+            "transformers-rise-of-the-beasts",
+            "the-flash",
+            "oppenheimer",
+            "spider-man-across-the-spider-verse"
+        ]
+    },
+    {
+        "title": "Top Searches",    
+        "trailers": [
+            "oppenheimer",
+            "the-super-mario-bros-movie",
+            "the-little-mermaid",
+            "chappie",
+            "world-war-z"
+        ]
+    }
+]
