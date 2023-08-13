@@ -12,7 +12,9 @@ export const getFeaturedSection = async (req, res, async) => {
 
 export const getSections = async (req, res, async) => {
     try {
-        const results = await appService.getSections();
+        const {index, count} = req.query;
+
+        const results = await appService.getSections(index, count);
 
         return res.status(200).json(results);
     } catch (error) {
@@ -35,6 +37,17 @@ export const getOtherUpcomingTrailers = async (req, res, async) => {
     try {
         const { count } = req.query;
         const results = await appService.getOtherUpcomingTrailers(count);
+
+        return res.status(200).json(results);
+    } catch (error) {        
+        return res.status(400).json({ error });
+    }
+}
+
+export const searchTrailers = async (req, res, async) => {
+    try {
+        const { query } = req.query;
+        const results = await appService.searchTrailers(query);
 
         return res.status(200).json(results);
     } catch (error) {        

@@ -11,4 +11,6 @@ router.get("/trailer/:trailerId", appController.getTrailerDetails);
 
 router.get("/other-upcoming-trailers", appController.getOtherUpcomingTrailers)
 
+router.get("/search", appController.searchTrailers);
+
 export default router;

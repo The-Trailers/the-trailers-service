@@ -1,6 +1,6 @@
 [
     {
-        "title": "Featured",    
+        "title": "Featured",
         "trailers": [
             "the-super-mario-bros-movie",
             "spider-man-across-the-spider-verse",
@@ -10,17 +10,18 @@
         "isFeatured": true
     },
     {
-        "title": "Trending Now",    
+        "title": "Trending Now",
         "trailers": [
             "the-flash",
             "oppenheimer",
             "ruby-gillman-teenage-kraken",
             "star-wars-the-force-awakens",
-            "tetris"
+            "tetris",
+            "transformers-rise-of-the-beasts"
         ]
     },
     {
-        "title": "New Releases",    
+        "title": "New Releases",
         "trailers": [
             "corner-office",
             "creed-iii",
@@ -30,33 +31,95 @@
         ]
     },
     {
-        "title": "Kids & Family Movies",    
+        "title": "Kids & Family Movies",
         "trailers": [
             "hotel-transylvania",
             "trolls-band-together",
             "elemental",
             "inspector-sun-and-the-curse-of-the-black-widow",
-            "ruby-gillman-teenage-kraken"
+            "ruby-gillman-teenage-kraken",
+            "the-super-mario-bros-movie",
+            "the-little-mermaid"
         ]
     },
     {
-        "title": "Blockbuster Movies",    
+        "title": "Blockbuster Movies",
         "trailers": [
             "avengers-age-of-ultron",
             "transformers-rise-of-the-beasts",
             "the-flash",
             "oppenheimer",
-            "spider-man-across-the-spider-verse"
+            "spider-man-across-the-spider-verse",
+            "the-super-mario-bros-movie",
+            "the-little-mermaid"
         ]
     },
     {
-        "title": "Top Searches",    
+        "title": "Top Searches",
         "trailers": [
             "oppenheimer",
             "the-super-mario-bros-movie",
             "the-little-mermaid",
             "chappie",
             "world-war-z"
+        ]
+    },
+    {
+        "title": "Superhero Movies",
+        "trailers": [
+            "spider-man-across-the-spider-verse",
+            "avengers-age-of-ultron",
+            "the-flash",
+            "batman-v-superman-dawn-of-justice"
+        ]
+    },
+    {
+        "title": "Biography Movies",
+        "trailers": [
+            "oppenheimer",
+            "88",
+            "tetris"
+        ]
+    },
+    {
+        "title": "Horror Movies",
+        "trailers": [
+            "world-war-z",
+            "meg-2-the-trench"
+        ]
+    },
+    {
+        "title": "Sci-Fi Specials",
+        "trailers": [
+            "chappie",
+            "batman-v-superman-dawn-of-justice",
+            "avengers-age-of-ultron",
+            "star-wars-the-force-awakens",
+            "transformers-rise-of-the-beasts"
+        ]
+    },
+    {
+        "title": "Watch On Netflix",
+        "trailers": [
+            "world-war-z",
+            "hotel-transylvania",
+            "chappie"
+        ]
+    },
+    {
+        "title": "Action Pack Movies",
+        "trailers": [
+            "transformers-rise-of-the-beasts",
+            "chappie",
+            "world-war-z",
+            "batman-v-superman-dawn-of-justice",
+            "avengers-age-of-ultron",
+            "meg-2-the-trench",
+            "operation-fortune-ruse-de-guerre",
+            "ruby-gillman-teenage-kraken",
+            "spider-man-across-the-spider-verse",
+            "star-wars-the-force-awakens",
+            "the-flash"
         ]
     }
 ]

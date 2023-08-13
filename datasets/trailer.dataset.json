@@ -949,9 +949,9 @@
         "genres": [
             "DRAMA"
         ],
-        "trailerURL": "https://storage.googleapis.com/trailer-videos-bucket/trolls-band-together-trailer-1_h720p.mov",
-        "thumbnailURL": "https://storage.googleapis.com/trailer-thumbnails-bucket/trolls-band-together.png",
-        "posterURL": "https://storage.googleapis.com/trailer-posters-bucket/trolls%20band%20together.jpg",
+        "trailerURL": "https://storage.googleapis.com/trailer-videos-bucket/year-of-the-dog-trailer-2_h720p.mov",
+        "thumbnailURL": "https://storage.googleapis.com/trailer-thumbnails-bucket/the-year-of-the-dog.png",
+        "posterURL": "https://storage.googleapis.com/trailer-posters-bucket/the%20year%20of%20the%20dog.jpg",
         "releaseDatetime": "2023-02-24",
         "budget": 0,
         "duration": 95,

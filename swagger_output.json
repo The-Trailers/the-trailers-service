@@ -34,6 +34,18 @@
     "/sections": {
       "get": {
         "description": "",
+        "parameters": [
+          {
+            "name": "index",
+            "in": "query",
+            "type": "string"
+          },
+          {
+            "name": "count",
+            "in": "query",
+            "type": "string"
+          }
+        ],
         "responses": {
           "200": {
             "description": "OK"
@@ -71,6 +83,26 @@
         "parameters": [
           {
             "name": "count",
+            "in": "query",
+            "type": "string"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          },
+          "400": {
+            "description": "Bad Request"
+          }
+        }
+      }
+    },
+    "/search": {
+      "get": {
+        "description": "",
+        "parameters": [
+          {
+            "name": "query",
             "in": "query",
             "type": "string"
           }

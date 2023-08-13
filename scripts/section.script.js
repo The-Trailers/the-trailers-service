@@ -16,3 +16,9 @@ export const insertSections = async () => {
         console.log(error);
     }
 };
+
+// insertSections().then(() => {
+//     console.log(`Insert Sections successful!`);
+// }).finally(() => {
+//     exit(1);
+// });

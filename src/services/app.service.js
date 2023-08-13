@@ -28,27 +28,32 @@ export const getFeaturedSection = async () => {
     }
 }
 
-export const getSections = async () => {
+export const getSections = async (index, count) => {
     try {
         const results = await Section.find({
             isFeatured: { $ne: true }
-        }).populate({
-            path: "trailers",
-            select: {
-                title: true,
-                posterURL: true,
-                releaseDatetime: true,
-                movieSource: true
-            },
-            populate: {
-                path: "movieSource.source",
+        })
+            .limit(count)
+            .skip(index * count)
+            .populate({
+                path: "trailers",
                 select: {
-                    name: true
+                    title: true,
+                    posterURL: true,
+                    releaseDatetime: true,
+                    movieSource: true
+                },
+                populate: {
+                    path: "movieSource.source",
+                    select: {
+                        name: true
+                    }
                 }
-            }
-        });
+            });
 
-        return results;
+        const total = await Section.count({ isFeatured: { $ne: true } });
+
+        return { results, total: parseInt(total), index: parseInt(index), count: parseInt(count) };
     } catch (error) {
         throw error;
     }
@@ -85,7 +90,6 @@ export const getTrailerDetails = async (_id) => {
 
         return result;
     } catch (error) {
-        console.log(error)
         throw error;
     }
 }
@@ -109,11 +113,31 @@ export const getOtherUpcomingTrailers = async (count) => {
             }
         });
 
-        console.log(results)
+        return results;
+    } catch (error) {
+        throw error;
+    }
+}
+
+export const searchTrailers = async (query) => {
+    try {        
+        const results = await Trailer.find({
+            title: { $regex: query, $options: 'i' }
+        }).select({
+            title: true,
+            posterURL: true,
+            releaseDatetime: true,
+            movieSource: true
+        }).populate({
+            path: "movieSource.source",
+            select: {
+                _id: true,
+                name: true
+            }
+        });
 
         return results;
     } catch (error) {
-        console.log(error)
         throw error;
     }
 }
