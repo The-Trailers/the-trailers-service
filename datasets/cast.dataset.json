@@ -140,7 +140,7 @@
     {
         "_id": "hailee-steinfeld",
         "name": "Hailee Steinfeld",
-        "avatarURL": "https://m.media-amazon.com/images/M/MV5BMGFmZDVhZDUtZWIyNC00NzBjLTg0ZGEtY2FhMjJlZWJhZjBlXkEyXkFqcGdeQXVyMTcwNzE4OTI@._V1_FMjpg_UX1200_.jpg"
+        "avatarURL": "https://m.media-amazon.com/images/M/MV5BNWMxZTA5MjctMWQ2Ny00ZmRhLWJlZjEtODA4ZWI2NTIyMGQ1L2ltYWdlXkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_FMjpg_UX1024_.jpg"
     },
     {
         "_id": "daisy-ridley",
@@ -286,5 +286,20 @@
         "_id": "jon-proudstar",
         "name": "Jon Proudstar",
         "avatarURL": "https://m.media-amazon.com/images/M/MV5BMDEzODZhOWMtMGRhMy00ZmQ1LTkwY2UtMWYzNzAzYmRjODg0XkEyXkFqcGdeQXVyMTUyNTkzNzE3._V1_FMjpg_UX387_.jpg"
+    },
+    {
+        "_id": "cillian-murphy",
+        "name": "Cillian Murphy",
+        "avatarURL": "https://m.media-amazon.com/images/M/MV5BNTljYjk2ZmEtMmRkZi00NWFmLWI0YWItYjJiY2YxMWMyMmY3XkEyXkFqcGdeQXVyMTY5MDA5MDc3._V1_FMjpg_UY8256_.jpg"
+    },
+    {
+        "_id": "emily-blunt",
+        "name": "Emily Blunt",
+        "avatarURL": "https://m.media-amazon.com/images/M/MV5BMTUxNDY4MTMzM15BMl5BanBnXkFtZTcwMjg5NzM2Ng@@._V1_FMjpg_UX1272_.jpg"
+    },
+    {
+        "_id": "matt-damon",
+        "name": "Matt Damon",
+        "avatarURL": "https://m.media-amazon.com/images/M/MV5BMTM0NzYzNDgxMl5BMl5BanBnXkFtZTcwMDg2MTMyMw@@._V1_FMjpg_UX447_.jpg"
     }
 ]

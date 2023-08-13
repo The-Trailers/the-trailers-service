@@ -11,7 +11,14 @@ export const getFeaturedSection = async () => {
                     title: true,
                     authors: true,
                     trailerURL: true,
-                    thumbnailURL: true
+                    thumbnailURL: true,
+                    movieSource: true
+                },
+                populate: {
+                    path: "movieSource.source",
+                    select: {
+                        name: true
+                    }
                 }
             });
 
@@ -100,7 +107,9 @@ export const getOtherUpcomingTrailers = async (count) => {
                 _id: true,
                 name: true
             }
-        })
+        });
+
+        console.log(results)
 
         return results;
     } catch (error) {

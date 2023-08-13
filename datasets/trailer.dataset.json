@@ -203,9 +203,9 @@
         "genres": [
             "COMEDY"
         ],
-        "trailerURL": "https://storage.googleapis.com/trailer-videos-bucket/corner-office-trailer-1_h720p.mov",
-        "thumbnailURL": "https://storage.googleapis.com/trailer-thumbnails-bucket/corneroffice.png",
-        "posterURL": "https://storage.googleapis.com/trailer-posters-bucket/corner%20office.jpg",
+        "trailerURL": "https://storage.googleapis.com/trailer-videos-bucket/crazy-rich-asians-trailer-1_h720p.mov",
+        "thumbnailURL": "https://storage.googleapis.com/trailer-thumbnails-bucket/crazyrichasians.png",
+        "posterURL": "https://storage.googleapis.com/trailer-posters-bucket/crazy%20rich%20asians.jpg",
         "releaseDatetime": "2018-08-22",
         "budget": 30000000,
         "duration": 120,
@@ -426,7 +426,12 @@
             "Christopher Nolan"
         ],
         "description": "During World War II, Lt. Gen. Leslie Groves Jr. appoints physicist J. Robert Oppenheimer to work on the top-secret Manhattan Project. Oppenheimer and a team of scientists spend years developing and designing the atomic bomb. Their work comes to fruition on July 16, 1945, as they witness the world's first nuclear explosion, forever changing the course of history.",
-        "casts": [],
+        "casts": [
+            "cillian-murphy",
+            "emily-blunt",
+            "matt-damon",
+            "robert-downey-jr"
+        ],
         "genres": [
             "BIOGRAPHY",
             "DRAMA",
