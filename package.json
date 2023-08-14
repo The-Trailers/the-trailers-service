@@ -6,7 +6,14 @@
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon index.js"
+    "dev": "nodemon index.js",
+    "init-trailer": "node -e \"import('./scripts/trailer.script.js').then(module => module.run())\"",
+    "init-section": "node -e \"import('./scripts/section.script.js').then(module => module.run())\"",
+    "init-movie-source": "node -e \"import('./scripts/movie-source.script.js').then(module => module.run())\"",
+    "init-hype": "node -e \"import('./scripts/hype.script.js').then(module => module.run())\"",
+    "init-genre": "node -e \"import('./scripts/genre.script.js').then(module => module.run())\"",
+    "init-cast": "node -e \"import('./scripts/cast.script.js').then(module => module.run())\"",
+    "init-all": "node ./scripts/init.script.js"
   },
   "author": "",
   "license": "ISC",

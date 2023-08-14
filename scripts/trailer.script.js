@@ -9,16 +9,18 @@ dotenv.config({ path: `.env` });
 export const insertTrailers = async () => {
     try {
         await connect(process.env.MONGODB_CONNECTION_STRING);
-    
+
         await Trailer.deleteMany();
-        await Trailer.insertMany(trailerJson);        
+        await Trailer.insertMany(trailerJson);
     } catch (error) {
         console.log(error);
     }
 };
 
-// insertTrailers().then(() => {
-//     console.log(`Insert Trailers successful!`);
-// }).finally(() => {
-//     exit(1);
-// });
+export const run = () => {
+    insertTrailers().then(() => {
+        console.log(`Insert Trailers successful!`);
+    }).finally(() => {
+        exit(1);
+    });
+}

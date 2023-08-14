@@ -9,16 +9,18 @@ dotenv.config({ path: `.env` });
 export const insertMovieSources = async () => {
     try {
         await connect(process.env.MONGODB_CONNECTION_STRING);
-    
+
         await MovieSource.deleteMany();
-        await MovieSource.insertMany(movieSourceJson);        
+        await MovieSource.insertMany(movieSourceJson);
     } catch (error) {
         console.log(error);
     }
 };
 
-// insertMovieSources().then(() => {
-//     console.log(`Insert Movie Sources successful!`);
-// }).finally(() => {
-//     exit(1);
-// });
+export const run = () => {
+    insertMovieSources().then(() => {
+        console.log(`Insert Movie Sources successful!`);
+    }).finally(() => {
+        exit(1);
+    });
+}

@@ -9,16 +9,18 @@ dotenv.config({ path: `.env` });
 export const insertSections = async () => {
     try {
         await connect(process.env.MONGODB_CONNECTION_STRING);
-    
+
         await Section.deleteMany();
-        await Section.insertMany(sectionJson);        
+        await Section.insertMany(sectionJson);
     } catch (error) {
         console.log(error);
     }
 };
 
-// insertSections().then(() => {
-//     console.log(`Insert Sections successful!`);
-// }).finally(() => {
-//     exit(1);
-// });
+export const run = () => {
+    insertSections().then(() => {
+        console.log(`Insert Sections successful!`);
+    }).finally(() => {
+        exit(1);
+    });
+}

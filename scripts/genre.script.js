@@ -9,16 +9,18 @@ dotenv.config({ path: `.env` });
 export const insertGenres = async () => {
     try {
         await connect(process.env.MONGODB_CONNECTION_STRING);
-    
+
         await Genre.deleteMany();
-        await Genre.insertMany(genreJson);        
+        await Genre.insertMany(genreJson);
     } catch (error) {
         console.log(error);
     }
 };
 
-// insertGenres().then(() => {
-//     console.log(`Insert Genres successful!`);
-// }).finally(() => {
-//     exit(1);
-// });
+export const run = () => {
+    insertGenres().then(() => {
+        console.log(`Insert Genres successful!`);
+    }).finally(() => {
+        exit(1);
+    });
+}

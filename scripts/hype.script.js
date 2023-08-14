@@ -9,16 +9,18 @@ dotenv.config({ path: `.env` });
 export const insertHypes = async () => {
     try {
         await connect(process.env.MONGODB_CONNECTION_STRING);
-    
+
         await Hype.deleteMany();
-        await Hype.insertMany(hypeJson);        
+        await Hype.insertMany(hypeJson);
     } catch (error) {
         console.log(error);
     }
 };
 
-// insertHypes().then(() => {
-//     console.log(`Insert Hypes successful!`);
-// }).finally(() => {
-//     exit(1);
-// })
+export const run = () => {
+    insertHypes().then(() => {
+        console.log(`Insert Hypes successful!`);
+    }).finally(() => {
+        exit(1);
+    });
+}
